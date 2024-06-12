@@ -8,7 +8,7 @@ on Flutter!
 
 https://play.google.com/store/apps/details?id=com.bilmax
 
-![Bilmax ](images/bilmax_000.png)
+![Bilmax ](images/bilmax_001.png)
 
 Unique corporate application on Flutter!
 
@@ -29,6 +29,7 @@ Technologies and main dependencies used:
  Printing, pdf render, dotenv….
 
 //**************************************
+
 Унікальний корпоративний додаток на Flutter!
 
 Завдання цієї програми полягає у створенні
@@ -48,6 +49,7 @@ Technologies and main dependencies used:
  Printing, pdf render, dotenv ….
 
 //**************************************
+
 Уникальное корпоративное приложение на Flutter !
 
 Задача этого приложения заключается в создании 
@@ -66,7 +68,7 @@ Technologies and main dependencies used:
   Image, permission handler
   Printing, pdf render, dotenv ….
 
-![Bilmax ](images/bilmax_001.png)
+
 ![Bilmax ](images/bilmax_002.png)
 ![Bilmax ](images/bilmax_003.png)
 ![Bilmax ](images/bilmax_004.png)
